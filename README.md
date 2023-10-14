@@ -1,4 +1,4 @@
-### Hello there! I'm András 👋
+### Hello there! I'm Andras 👋
 
 🚀 **Journey to Web3**: I'm on a mission to become a top-notch Fullstack Web3 Engineer. While I've crafted high-quality dapps for MetaStreet Labs on Ethereum, I'm now diving deeper into the world of smart contract development with Solidity and the fascinating realm of zero-knowledge proofs for zk-Rollups.
 
