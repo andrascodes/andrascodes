@@ -1,6 +1,6 @@
 ## Hello there! I'm Andras 👋
 
-🚀 **Journey to Web3**: I'm on a mission to become a top-notch Fullstack Web3 Engineer. While I've crafted high-quality dapps for MetaStreet Labs on Ethereum, I'm now diving deeper into the world of smart contract development with Solidity and the fascinating realm of zero-knowledge proofs for zk-Rollups.
+🚀 **Journey to Web3**: I'm on a mission to become a top-notch Fullstack Web3 Engineer. While I've crafted high-quality dapps for [MetaStreet Labs](https://github.com/metastreet-labs) on Ethereum, I'm now diving deeper into the world of smart contract development with Solidity and the fascinating realm of zero-knowledge proofs for zk-Rollups.
 
 🎨 **Mastery in Code & Design**: With 8 years of startup experience, I stand as a product-focused fullstack JavaScript engineer. Beyond code, I'm deeply ingrained in user experience. Armed with a Master's in Human-Computer Interaction and Entrepreneurship, I seamlessly bridge the gap between tech and design. My philosophy? "Building the right things and building things right."
 
