@@ -12,3 +12,7 @@
 
 ## Github Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=andrascodes&rank=-B,-C&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Allura&size=28&duration=2000&pause=300&color=38D4D6&center=true&vCenter=true&random=false&width=300&height=80&lines=Building+the+Right+Things;And;Building+Things+Right;Andr%C3%A1s+Sz%C3%BCcs" alt="Typing SVG" /></a></p>
