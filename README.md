@@ -11,4 +11,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrascodes&layout=donut&show_icons=true&theme=dracula)
 
 ## Github Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=andrascodes&rank=-B,-C&theme=dracyke)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=andrascodes&rank=-B,-C&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
